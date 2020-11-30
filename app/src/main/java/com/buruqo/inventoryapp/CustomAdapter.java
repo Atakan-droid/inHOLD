@@ -18,10 +18,7 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.MyViewHold
 
    private Context context;
    Activity activity;
-
-
-
-
+   
 
    private  ArrayList item_id, item_title, item_author, item_number;
 
